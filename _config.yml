@@ -81,8 +81,8 @@ analytics:
 # Site Author
 author:
   name             : "Yue Qin"
-  avatar           : "./image/Yue-Qin"
-  bio              : "Ph.D. Candidate"
+  avatar           : "./image/Yue-Qin.jpg"
+  bio              : "Ph.D. Candidate\nNCI F99/K00 Awardee"
   location         : "CA"
   employer         :
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
@@ -109,7 +109,7 @@ author:
   stackoverflow    : # http://stackoverflow.com/users/123456/username
   steam            :
   tumblr           :
-  twitter          : "YueQin-SysBio"
+  twitter          : "Yue_Qin_SysBio"
   vine             :
   weibo            :
   xing             :
