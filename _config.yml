@@ -83,11 +83,11 @@ author:
   name             : "Yue Qin"
   avatar           : "Yue-Qin.jpg"
   bio              : "Ph.D. Candidate"
-  location         : "CA"
+  location         : "CA, US"
   employer         :
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : "https://www.ncbi.nlm.nih.gov/myncbi/yue.qin.2/bibliography/public/"
   googlescholar    : "https://scholar.google.com/citations?user=72WeQl8AAAAJ&hl=en"
-  email            :
+  email            : "y8qin [at] ucsd.edu"
   researchgate     :
   uri              :
   bitbucket        :
@@ -100,7 +100,7 @@ author:
   google_plus      :
   keybase          :
   instagram        :
-  impactstory      : #"https://profiles.impactstory.org/u/xxxx-xxxx-xxxx-xxxx"
+  impactstory      :
   lastfm           :
   linkedin         : "https://www.linkedin.com/in/yue-qin-472092b2"
   orcid            : "https://orcid.org/0000-0002-0496-7134"
