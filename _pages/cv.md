@@ -11,7 +11,9 @@ redirect_from:
 
 Education
 ======
-* 2017-current  Ph.D., University of California San Diego, Bioinformatics and Systems Biology
-* 2014-2017     B.S., University of California San Diego, Bioinformatics
+* Ph.D., University of California San Diego, Bioinformatics and Systems Biology
+    * 2017-current
+* B.S., University of California San Diego, Bioinformatics
+    * 2014-2017
     * Magna Cum Laude (top 6%)
 
