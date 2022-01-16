@@ -9,26 +9,18 @@ redirect_from:
 
 {% include base_path %}
 
-2022
+Featuring
 ======
-* Joint Mathematics Meetings    *invited talk*
-* 9<sup>th</sup> Annual Winter Q-Bio Conference
-* BioArt Face-to-face with First Author Seminar     *invited talk*
-    * [Video](https://www.bilibili.com/video/BV1Hb4y1J7E1?spm_id_from=333.999.0.0)
-* UCSD Bioinformatics Exchange
+* [Revealing a Cell's Components through Artificial Intelligence](https://www.azolifesciences.com/news/20211223/Revealing-a-Cells-Components-through-Artificial-Intelligence.aspx)
+* [We Might Not Know Half of What’s in Our Cells, New AI Technique Reveals](https://health.ucsd.edu/news/releases/Pages/2021-11-24-we-might-not-know-half-of-whats-in-our-cells-new-ai-technique-reveals.aspx)
+* [Classroom crowdscience: Students challenged to detect schizophrenia genes](https://www.sciencedaily.com/releases/2019/04/190424112921.htm)
 
-2021
+Selected
 ======
-* Cell Bio Virtual 2021
-    * Subgroup: Building the Cell
-* Broad Institute Next Generation in Biomedicine Symposium
-    * Nominated and selected worldwide as one of 20 presenters.
-
-2020
-======
-* RECOMB/ISCB Conference on Regulatory & Systems Genomics with DREAM Challenges
-    * [Video](https://www.youtube.com/watch?v=cv1W8e8VRyU)
-
-2017
-======
-* UC San Diego 30<sup>th</sup> Annual Undergraduate Research Conference, UC San Diego
+* [Revealing a Cell's Components through Artificial Intelligence](https://www.azolifesciences.com/news/20211223/Revealing-a-Cells-Components-through-Artificial-Intelligence.aspx)
+* [We Might Not Know Half of What’s in Our Cells, New AI Technique Reveals](https://health.ucsd.edu/news/releases/Pages/2021-11-24-we-might-not-know-half-of-whats-in-our-cells-new-ai-technique-reveals.aspx)
+* [Novel information leads to identification of new protein communities](https://www.azolifesciences.com/news/20211125/Novel-information-leads-to-identification-of-new-protein-communities.aspx)
+* [Protein communities: protein "villages" serving cells](https://scienmag.com/protein-communities-protein-villages-serving-cells/)
+* [Classroom crowdscience: Students challenged to detect schizophrenia genes](https://www.sciencedaily.com/releases/2019/04/190424112921.htm)
+* [Zika Virus Infection Alters Human and Viral RNA](https://health.ucsd.edu/news/releases/pages/2016-10-20-zika-virus-alters-human-viral-rna.aspx)
+* [Zika Virus May Cause Microcephaly by Hijacking Human Immune Molecule](https://health.ucsd.edu/news/releases/pages/2016-05-06-zika-virus-and-microcephaly.aspx)
