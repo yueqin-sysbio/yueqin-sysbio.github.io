@@ -22,7 +22,7 @@ redirect_from:
 * Cell Bio Virtual 2021
     * Subgroup: Building the Cell
 * Broad Institute Next Generation in Biomedicine Symposium
-    * Nominated and selected worldwide as one of 20 presenters.
+    * **Nominated and selected worldwide as one of 20 presenters.**
 
 2020
 ======
