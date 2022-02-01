@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-##The NCI Predoctoral to Postdoctoral Fellow Transition Award (F99/K00)
+## The NCI Predoctoral to Postdoctoral Fellow Transition Award (F99/K00)
 * 2021-2027
 * Principal Investigator: Yue Qin
 * Competed and nominated by UC San Diego (one nomination per institution)
