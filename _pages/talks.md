@@ -8,8 +8,9 @@ redirect_from:
 ---
 
 ## 2022
+* RECOMB Highlights
 * Joint Mathematics Meetings    *（invited talk）*
-* CSBC West Coast Symposium    *（invited talk）*
+* Cancer Systems Biology Consortium West Coast Symposium    *（invited talk）*
 * 9<sup>th</sup> Annual Winter Q-Bio Conference
 * BioArt Face-to-face with First Author Seminar     *（invited talk）*
     * [Video](https://www.bilibili.com/video/BV1Hb4y1J7E1?spm_id_from=333.999.0.0)
