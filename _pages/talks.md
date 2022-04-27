@@ -10,6 +10,8 @@ redirect_from:
 ## 2022
 * RECOMB Highlights
 * Joint Mathematics Meetings    *（invited talk）*
+* ISCBacademy Webinar    *（invited talk w/ Dr. Leah Schaffer）*
+    * [Video](https://www.youtube.com/watch?v=YeH8nYdmMIM)
 * Cancer Systems Biology Consortium West Coast Symposium    *（invited talk）*
 * 9<sup>th</sup> Annual Winter Q-Bio Conference
 * BioArt Face-to-face with First Author Seminar     *（invited talk）*
