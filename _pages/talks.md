@@ -8,6 +8,8 @@ redirect_from:
 ---
 
 ## 2022
+* ISMB
+    * Machine Learning in Computational and Systems Biology
 * RECOMB Highlights
 * Joint Mathematics Meetings    *（invited talk）*
 * ISCBacademy Webinar    *（invited talk w/ Dr. Leah Schaffer）*
