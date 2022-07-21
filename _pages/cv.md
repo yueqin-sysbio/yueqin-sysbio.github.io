@@ -33,6 +33,8 @@ redirect_from:
 
 ## Poster presentations
 ### 2022
+* ISMB
+* The Biology of Genomes Meeting, Cold Spring Harbor Lab
 * 9th Annual Winter Q-Bio Conference
 * UCSD Bioinformatics Exchange
 
