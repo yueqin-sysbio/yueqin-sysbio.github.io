@@ -10,7 +10,7 @@ locale                   : "en-US"
 title                    : "YUE QIN"
 title_separator          : "-"
 name                     : &name "Yue Qin"
-description              : &description "Ph.D. Candidate"
+description              : &description "NCI F99/K00 Awardee"
 url                      : https://yueqin-sysbio.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
 repository               : "yueqin-sysbio/yueqin-sysbio.github.io"

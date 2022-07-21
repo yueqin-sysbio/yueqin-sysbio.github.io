@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## 2022
+* Open Box Science Computational Omics Webinar    *（invited talk）*
 * ISMB
     * Machine Learning in Computational and Systems Biology
 * RECOMB Highlights
