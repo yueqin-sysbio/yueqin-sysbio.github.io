@@ -18,6 +18,8 @@ author_profile: true
 
 ## All Publications
 * **Qin, Y.**, Huttlin, E. L., Winsnes, C. F., ..., Yeo, G. W., Lafontaine, D. LJ., Lundberg, E.† & Ideker, T. † (2021). A multi-scale map of cell structure fusing protein images and interactions. *Nature*.
+* **CSBC/PS-ON Image Analysis Working Group.** (2022). A community-based approach to image analysis of cells, tissues and tumors. *Computerized Medical Imaging and Graphics*.
+* Dang, J., Tiwari, S. K., …, **Qin, Y.**, & Rana, T. M. (2021). Cellular diversity of human cerebral organoids revealed by single cell RNA-seq. *Molecular Psychiatry*.
 * Dang, J.\*, Tiwari, S. K.\*, …, **Qin, Y.**, & Rana, T. M. (2021). Glial cell diversity and metham-phetamine-induced neuroinflammation in human cerebral organoids. *Molecular Psychiatry*.
 * Tiwari, S. K.\*, Dang, J. W.\*, Lin, N., **Qin, Y.**, Wang, S., & Rana, T. M. (2020). Zika virus depletes neural stem cells and evades selective autophagy by suppressing the Fanconi anemia protein FANCC. EMBO Reports, 21(12), e49183.
 * Carlin, D. E.\*, Fong, S. H.\*, **Qin, Y.**, Jia, T., Huang, J. K., Bao, B., Zhang, C., & Ideker, T. (2019). A Fast and Flexible Framework for Network-Assisted Genomic Association. *iScience*. 
