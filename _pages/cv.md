@@ -48,6 +48,8 @@ redirect_from:
 * Cell Bio Virtual 2020
 
 ## Honors
+* Friends of the International Center Fellowship
+    * 2022-2023
 * Cancer Systems Biology Trainee, CCMI
     * 2021-2022
 * Excellence in Presentation, 30th Annual Undergraduate Research Conference, UC San Diego
