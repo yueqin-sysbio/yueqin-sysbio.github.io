@@ -31,6 +31,17 @@ redirect_from:
     * Studied cis-regulatory mechanism of long non-coding RNA in innate immune response. 
     * Studied dynamics of microRNA regulatory network, N6-adenosine methylation, and transcriptomic landscape in host during Zika virus infection.
 
+## Honors
+* Friends of the International Center Fellowship
+    * 2022-2023
+* Cancer Systems Biology Trainee, CCMI
+    * 2021-2022
+* Excellence in Presentation, 30th Annual Undergraduate Research Conference, UC San Diego
+    * 2017/04
+* Provost Honor, UC San Diego
+    * 2014-2017
+    * Awarded every quarter
+
 ## Poster presentations
 ### 2022
 * ISMB
@@ -46,17 +57,6 @@ redirect_from:
 
 ### 2020
 * Cell Bio Virtual 2020
-
-## Honors
-* Friends of the International Center Fellowship
-    * 2022-2023
-* Cancer Systems Biology Trainee, CCMI
-    * 2021-2022
-* Excellence in Presentation, 30th Annual Undergraduate Research Conference, UC San Diego
-    * 2017/04
-* Provost Honor, UC San Diego
-    * 2014-2017
-    * Awarded every quarter
 
 ## Mentees
 * Ximena Gonzalez, UC San Diego undergraduate major in Biology
