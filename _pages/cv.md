@@ -37,19 +37,19 @@ redirect_from:
 
 ## Poster presentations
 ### 2022
-* ISMB
-* The Biology of Genomes Meeting, Cold Spring Harbor Lab
-* 9th Annual Winter Q-Bio Conference
-* UCSD Bioinformatics Exchange
+ISMB<br/>
+The Biology of Genomes Meeting, Cold Spring Harbor Lab<br/>
+9th Annual Winter Q-Bio Conference<br/>
+UCSD Bioinformatics Exchange
 
 ### 2021
-* Cell Bio Virtual 2021
-* Cancer Systems Biology Consortium Annual Meeting
-* ISMB/ECCB 2021
-* Cold Spring Harbor Lab Network Biology Meeting
+Cell Bio Virtual 2021<br/>
+Cancer Systems Biology Consortium Annual Meeting<br/>
+ISMB/ECCB 2021<br/>
+Cold Spring Harbor Lab Network Biology Meeting
 
 ### 2020
-* Cell Bio Virtual 2020
+Cell Bio Virtual 2020
 
 ## Mentees
 * Ximena Gonzalez, UC San Diego undergraduate major in Biology
