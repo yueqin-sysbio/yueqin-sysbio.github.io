@@ -32,11 +32,11 @@ redirect_from:
     * Studied dynamics of microRNA regulatory network, N6-adenosine methylation, and transcriptomic landscape in host during Zika virus infection.
 
 ## Honors
-2022&nbsp; &nbsp; Friends of the International Center Fellowship, UC San Diego<br/>
-2021&nbsp; &nbsp; F99/K00 Predoctoral to Postdoctoral Transition Award, NIH/NCI<br/>
-2021&nbsp; &nbsp; Cancer Systems Biology Training Award, Cancer Cell Map Initiative<br/>
-2017&nbsp; &nbsp; Excellence in Presentation, UC San Diego Undergraduate Research Conference<br/>
-2014-2017&nbsp; Provost Honor, UC San Diego
+2022&nbsp; &nbsp; &nbsp; &nbsp; Friends of the International Center Fellowship, UC San Diego<br/>
+2021&nbsp; &nbsp; &nbsp; &nbsp; F99/K00 Predoctoral to Postdoctoral Transition Award, NIH/NCI<br/>
+2021&nbsp; &nbsp; &nbsp; &nbsp; Cancer Systems Biology Training Award, Cancer Cell Map Initiative<br/>
+2017&nbsp; &nbsp; &nbsp; &nbsp; Excellence in Presentation, UC San Diego Undergraduate Research Conference<br/>
+2014-2017&nbsp; &nbsp; Provost Honor, UC San Diego
 
 ## Poster presentations
 ### 2022
