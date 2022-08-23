@@ -36,15 +36,16 @@ redirect_from:
 2014-2017&nbsp; &nbsp; Provost Honor, UC San Diego
 
 ## Poster presentations
-2022, ISMB<br/>
-2022, The Biology of Genomes Meeting, Cold Spring Harbor Lab<br/>
-2022, 9th Annual Winter Q-Bio Conference<br/>
-2022, UCSD Bioinformatics Exchange<br/>
-2021, Cell Bio Virtual 2021<br/>
-2021, Cancer Systems Biology Consortium Annual Meeting<br/>
-2021, ISMB/ECCB 2021<br/>
-2021, Cold Spring Harbor Lab Network Biology Meeting<br/>
-2020, Cell Bio Virtual 2020
+2022 &nbsp; &nbsp; &nbsp; &nbsp; NCI Junior Investigator Meeting<br/>
+2022 &nbsp; &nbsp; &nbsp; &nbsp; ISMB<br/>
+2022 &nbsp; &nbsp; &nbsp; &nbsp; The Biology of Genomes Meeting, Cold Spring Harbor Lab<br/>
+2022 &nbsp; &nbsp; &nbsp; &nbsp; 9th Annual Winter Q-Bio Conference<br/>
+2022 &nbsp; &nbsp; &nbsp; &nbsp; UCSD Bioinformatics Exchange<br/>
+2021 &nbsp; &nbsp; &nbsp; &nbsp; Cell Bio Virtual 2021<br/>
+2021 &nbsp; &nbsp; &nbsp; &nbsp; Cancer Systems Biology Consortium Annual Meeting<br/>
+2021 &nbsp; &nbsp; &nbsp; &nbsp; ISMB/ECCB 2021<br/>
+2021 &nbsp; &nbsp; &nbsp; &nbsp; Cold Spring Harbor Lab Network Biology Meeting<br/>
+2020 &nbsp; &nbsp; &nbsp; &nbsp; Cell Bio Virtual 2020
 
 ## Mentees
 * Ximena Gonzalez, UC San Diego undergraduate major in Biology
