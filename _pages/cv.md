@@ -30,7 +30,7 @@ redirect_from:
 
 ## Honors
 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Siebel Scholars<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; *Academic/leadership award given to 85 students worldwide annually from top graduate programs in bioengineering, business, and computer science.*
+*Academic/leadership award given to 85 students worldwide annually from top graduate programs in bioengineering, business, and computer science.*<br/><br/>
 2022&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Friends of the International Center Fellowship, UC San Diego<br/>
 2021&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; F99/K00 Predoctoral to Postdoctoral Transition Award, NIH/NCI<br/>
 2021&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Cancer Systems Biology Training Award, Cancer Cell Map Initiative<br/>
