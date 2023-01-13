@@ -9,11 +9,12 @@ redirect_from:
 
 
 ## Education
-2017-current &nbsp; &nbsp; &nbsp; &nbsp; Ph.D., UC San Diego, Bioinformatics and Systems Biology<br/>
+2017-2023 &nbsp; &nbsp; &nbsp; &nbsp; Ph.D., UC San Diego, Bioinformatics and Systems Biology<br/>
 2014-2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B.S., UC San Diego, Bioinformatics (*Magna Cum Laude* - top 6%)
 
 ## Research Experience
-* 2018/06-current &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Ph.D. Student – Dr. Trey Ideker**
+* 2023/01-current &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Postdoctoral Fellow – Eric and Wendy Schmidt Center | Broad Institute**
+* 2018/06-2023/01 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Ph.D. Student – Dr. Trey Ideker**
     * Building a visible machine learning system to discover targeted treatment solutions in cancer.
     * Developed novel machine learning approach to infer cell structure across several orders of physical scale from fusing confocal microscopy images and protein biophysical association data.
     * Developed method for boosting signals in the genome-wide association study data using protein interaction network.
@@ -24,8 +25,8 @@ redirect_from:
 * 2017/08-2017/12 &nbsp; &nbsp; &nbsp; &nbsp; **Rotation Student – Dr. Trey Ideker**
     * Inferred a hierarchical yeast model from single cell imaging data.
 * 2015/09-2017/06 &nbsp; &nbsp; &nbsp; &nbsp; **Research Intern – Dr. Tariq M. Rana**
-    * Analyzed single-cell RNA-seq data of cerebral organoids. 
-    * Studied cis-regulatory mechanism of long non-coding RNA in innate immune response. 
+    * Analyzed single-cell RNA-seq data of cerebral organoids.
+    * Studied cis-regulatory mechanism of long non-coding RNA in innate immune response.
     * Studied dynamics of microRNA regulatory network, N6-adenosine methylation, and transcriptomic landscape in host during Zika virus infection.
 
 ## Honors
@@ -50,8 +51,10 @@ redirect_from:
 2020 &nbsp; &nbsp; &nbsp; &nbsp; Cell Bio Virtual 2020
 
 ## Mentees
-* Ximena Gonzalez, UC San Diego undergraduate major in Biology
-    * 2020-current
+* 2020-2022 &nbsp; &nbsp; &nbsp; &nbsp; Ximena Gonzalez, UC San Diego undergraduate major in Biology
     * Awarded TRELS scholarship (Summer 2021)
-* Michelle Li, Menlo School high school student
-    * 2021/06-08
+* 2021      &nbsp; &nbsp; &nbsp; &nbsp; Michelle Li, Menlo School high school student
+
+## Peer-review Activities
+**Journals for which I have reviewed manuscripts:**<br/>
+Cell, Frontiers in Genetics, Genes, International Journal of Bioinformatics and Intelligent Computing, Journal of Bioinformatics and Computational Biology, Journal of Chemical Informatics and Modeling, Journal of International Medical Research, MedComm – Future Medicine, Nature, Nature Communications, Nucleic Acids Research Genomics and Bioinformatics, PeerJ, PNAS, Vaccines, Viruses
