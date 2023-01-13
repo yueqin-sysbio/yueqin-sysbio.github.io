@@ -8,12 +8,8 @@ redirect_from:
 ---
 
 ## 2019
-* Medical Scientist Training Program Bootcamp, UCSD
-    * Instructor
-* CLRE 255 – Data Management & Informatics, UCSD
-    * Teaching assistant
+Medical Scientist Training Program Bootcamp, UCSD - **Instructor**<br/>
+CLRE 255 – Data Management & Informatics, UCSD - **Teaching Assistant**
 
 ## 2015
-* BICD 100 – Genetics, UCSD
-    * Instructional apprentice
-
+BICD 100 – Genetics, UCSD - **Instructional apprentice**
