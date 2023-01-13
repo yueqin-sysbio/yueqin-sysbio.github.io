@@ -50,6 +50,11 @@ redirect_from:
 2021 &nbsp; &nbsp; &nbsp; &nbsp; Cold Spring Harbor Lab Network Biology Meeting<br/>
 2020 &nbsp; &nbsp; &nbsp; &nbsp; Cell Bio Virtual 2020
 
+## Teaching
+2019 &nbsp; &nbsp; &nbsp; &nbsp; Medical Scientist Training Program Bootcamp, UCSD - **Instructor**<br/>
+2019 &nbsp; &nbsp; &nbsp; &nbsp; CLRE 255 – Data Management & Informatics, UCSD - **Teaching Assistant**<br/>
+2015 &nbsp; &nbsp; &nbsp; &nbsp; BICD 100 – Genetics, UCSD - **Instructional Apprentice**
+
 ## Mentees
 * 2020-2022 &nbsp; &nbsp; &nbsp; &nbsp; Ximena Gonzalez, UC San Diego undergraduate major in Biology
     * Awarded TRELS scholarship (Summer 2021)
