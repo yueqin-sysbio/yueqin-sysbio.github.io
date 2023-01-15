@@ -9,11 +9,11 @@ redirect_from:
 
 
 ## Education
-2017-2023 &nbsp; &nbsp; &nbsp; &nbsp; Ph.D., UC San Diego, Bioinformatics and Systems Biology<br/>
-2014-2017 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B.S., UC San Diego, Bioinformatics (*Magna Cum Laude* - top 6%)
+2017/09-2023/01 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ph.D., UC San Diego, Bioinformatics and Systems Biology<br/>
+2014/09-2017/06 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; B.S., UC San Diego, Bioinformatics (*Magna Cum Laude* - top 6%)
 
 ## Research Experience
-* 2023/01-current &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Postdoctoral Fellow – Broad Institute Eric and Wendy Schmidt Center**
+* 2023/01-current &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Eric and Wendy Schmidt Center Fellow @ Broad Institute of MIT and Harvard**
 * 2018/06-2023/01 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Ph.D. Student – Dr. Trey Ideker**
     * Building a visible machine learning system to discover targeted treatment solutions in cancer.
     * Developed novel machine learning approach to infer cell structure across several orders of physical scale from fusing confocal microscopy images and protein biophysical association data.
@@ -58,7 +58,7 @@ redirect_from:
 ## Mentees
 * 2020-2022 &nbsp; &nbsp; &nbsp; &nbsp; Ximena Gonzalez, UC San Diego undergraduate major in Biology
     * Awarded TRELS scholarship (Summer 2021)
-* 2021      &nbsp; &nbsp; &nbsp; &nbsp; Michelle Li, Menlo School high school student
+* 2021 &nbsp; &nbsp;&nbsp; &nbsp; &nbsp; &nbsp; Michelle Li, Menlo School high school student
 
 ## Peer-review Activities
 **Journals for which I have reviewed manuscripts:**<br/>
