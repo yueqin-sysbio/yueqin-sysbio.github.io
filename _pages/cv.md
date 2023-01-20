@@ -58,7 +58,7 @@ redirect_from:
 ## Mentees
 * 2020-2022 &nbsp; &nbsp; &nbsp; &nbsp; Ximena Gonzalez, UC San Diego undergraduate major in Biology
     * Awarded TRELS scholarship (Summer 2021)
-* 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Michelle Li, Menlo School high school student
+* 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Michelle Li, Menlo School high school student
 
 ## Peer-review Activities
 **Journals for which I have reviewed manuscripts:**<br/>
