@@ -9,7 +9,7 @@ redirect_from:
 
 ## 2022
 **[Invited]** Open Box Science [(Video)](https://www.youtube.com/watch?v=ioyZYV9hE1Y&ab_channel=OpenBoxScience) <br/>
-ISMB - Machine Learning in Computational and Systems Biology <br/>
+ISMB - Machine Learning in Computational and Systems Biology [(Video)](https://www.youtube.com/watch?v=rbsUPsGyciQ) <br/>
 RECOMB Highlights <br/>
 **[Invited]** Joint Mathematics Meetings <br/>
 **[Invited]** ISCBacademy Webinar [(Video)](https://www.youtube.com/watch?v=YeH8nYdmMIM) <br/>
