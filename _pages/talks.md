@@ -7,6 +7,9 @@ redirect_from:
   - /resume
 ---
 
+## 2023
+Cell Biology @ Scale 2023 
+
 ## 2022
 **[Invited]** Open Box Science [(Video)](https://www.youtube.com/watch?v=ioyZYV9hE1Y&ab_channel=OpenBoxScience) <br/>
 ISMB - Machine Learning in Computational and Systems Biology [(Video)](https://www.youtube.com/watch?v=rbsUPsGyciQ) <br/>
