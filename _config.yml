@@ -7,9 +7,9 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "YUE QIN"
+title                    : "YUE QIN, PH.D."
 title_separator          : "-"
-name                     : &name "Yue Qin"
+name                     : &name "Yue Qin, Ph.D."
 description              : &description "NCI F99/K00 Awardee"
 url                      : https://yueqin-sysbio.github.io
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
