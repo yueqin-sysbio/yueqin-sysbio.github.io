@@ -34,7 +34,7 @@ redirect_from:
 ## Honors
 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Forbes 30 Under 30 Asia <br/>
 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chancellor’s Dissertation Medal, UC San Diego<br/>
-&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *- Winner of Jacobs School of Engineering.*<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *- Recipient for Jacobs School of Engineering.*<br/>
 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Siebel Scholars, Thomas and Stacey Siebel Foundation<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *- Academic/leadership award given to 85 students worldwide annually from top graduate programs in bioengineering, business, and computer science.*<br/>
 2022&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Friends of the International Center Fellowship, UC San Diego<br/>
