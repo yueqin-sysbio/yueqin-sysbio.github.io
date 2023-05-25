@@ -17,6 +17,7 @@ author_profile: true
     * [In press](https://health.ucsd.edu/news/releases/Pages/2021-11-24-we-might-not-know-half-of-whats-in-our-cells-new-ai-technique-reveals.aspx)
 
 ## All Publications
+* Kratz, A.\*, Kim, M.\*, Kelly, M., …, **Qin, Y.**, …, Sobol, R. W. †, Krogan N. † & Ideker, T. † (2023). A multi-scale map of protein assemblies in the DNA damage response. *Cell Systems*.
 * **Qin, Y.**, Huttlin, E. L., Winsnes, C. F., ..., Yeo, G. W., Lafontaine, D. LJ., Lundberg, E.† & Ideker, T. † (2021). A multi-scale map of cell structure fusing protein images and interactions. *Nature*.
 * **CSBC/PS-ON Image Analysis Working Group.** (2022). A community-based approach to image analysis of cells, tissues and tumors. *Computerized Medical Imaging and Graphics*.
 * Dang, J., Tiwari, S. K., …, **Qin, Y.**, & Rana, T. M. (2021). Cellular diversity of human cerebral organoids revealed by single cell RNA-seq. *Molecular Psychiatry*.
