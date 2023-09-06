@@ -32,6 +32,8 @@ redirect_from:
     * Studied dynamics of microRNA regulatory network, N6-adenosine methylation, and transcriptomic landscape in host during Zika virus infection.
 
 ## Honors
+
+2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fifty Years Fifty 50 <br/>
 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Forbes 30 Under 30 Asia <br/>
 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chancellor’s Dissertation Medal, UC San Diego<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *- Recipient for Jacobs School of Engineering.*<br/>
