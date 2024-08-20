@@ -8,6 +8,7 @@ redirect_from:
 ---
 
 ## Featuring
+* [#WhyIScience Q&A](https://www.broadinstitute.org/news/whyiscience-qa-systems-biologist-develops-computational-tools-bring-scale-cell-experiments)
 * [Forbes 30 Under 30 Asia - Class of 2023](https://www.forbes.com/profile/qin-yue/?list=30under30-asia-healthcare-science/&sh=30b77b3a2420)
 * [Revealing a Cell's Components through Artificial Intelligence](https://www.azolifesciences.com/news/20211223/Revealing-a-Cells-Components-through-Artificial-Intelligence.aspx)
 * [We Might Not Know Half of What’s in Our Cells, New AI Technique Reveals](https://today.ucsd.edu/story/we-might-not-know-half-of-whats-in-our-cells-new-ai-technique-reveals)
