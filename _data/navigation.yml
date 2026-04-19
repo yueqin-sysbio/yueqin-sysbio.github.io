@@ -14,3 +14,6 @@ main:
 
   - title: "In the Press"
     url: /news/
+
+  - title: "Blog"
+    url: /blog/
