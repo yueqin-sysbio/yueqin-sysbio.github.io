@@ -16,6 +16,8 @@ redirect_from:
 
 ## Research Experience
 * 2023/01-current &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Eric and Wendy Schmidt Center Fellow @ Broad Institute of MIT and Harvard**
+    * Co-mentored by Drs. Paul Blainey and Caroline Uhler.
+    * Developing novel machine learning models and experimental techniques for systematically understanding rewiring of biological programs upon genetic perturbations.
 * 2018/06-2023/01 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Ph.D. Student – Dr. Trey Ideker**
     * Building a visible machine learning system to discover targeted treatment solutions in cancer.
     * Developed novel machine learning approach to infer cell structure across several orders of physical scale from fusing confocal microscopy images and protein biophysical association data.
@@ -33,6 +35,8 @@ redirect_from:
 
 ## Honors
 
+2026&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Eliana Hechter Memorial Travel Prize, Broad Institute of MIT and Harvard <br/>
+2024&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Asia-Pacific Leaders Under 30, Asia-Pacific Entrepreneurs Association <br/>
 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fifty Years Fifty 50 <br/>
 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Forbes 30 Under 30 Asia <br/>
 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Chancellor’s Dissertation Medal, UC San Diego<br/>
@@ -48,6 +52,7 @@ redirect_from:
 2014-2017&nbsp; &nbsp; &nbsp;Provost Honor, UC San Diego
 
 ## Poster presentations
+2023 &nbsp; &nbsp; &nbsp; &nbsp; NCI F99/K00 Awardees Annual Meeting<br/>
 2022 &nbsp; &nbsp; &nbsp; &nbsp; NCI Junior Investigator Meeting<br/>
 2022 &nbsp; &nbsp; &nbsp; &nbsp; ISMB<br/>
 2022 &nbsp; &nbsp; &nbsp; &nbsp; The Biology of Genomes Meeting, Cold Spring Harbor Lab<br/>
@@ -59,16 +64,23 @@ redirect_from:
 2021 &nbsp; &nbsp; &nbsp; &nbsp; Cold Spring Harbor Lab Network Biology Meeting<br/>
 2020 &nbsp; &nbsp; &nbsp; &nbsp; Cell Bio Virtual 2020
 
-## Teaching
+## Mentees
+* 2025/06 – &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vernon Lin, MIT undergraduate
+* 2025/01 – &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jacob Cobb, MIT undergraduate
+* 2024/09 – 2025/01 &nbsp; &nbsp; &nbsp; &nbsp; Kien Phuong, MIT undergraduate
+* 2020-2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ximena Gonzalez, UC San Diego undergraduate
+    * Awarded TRELS scholarship (Summer 2021)
+    * Now attending UCSF medical school
+
+## Teaching & Outreach
+2024 &nbsp; &nbsp; &nbsp; &nbsp; Organizing Committee, CellMorph-2-Function Workgroup<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *- Monthly Broad workgroup meeting featuring ongoing functional genetics research.*<br/>
+2023 &nbsp; &nbsp; &nbsp; &nbsp; Committee Member, NCI F99/K00 Awardees Annual Meeting<br/>
 2019 &nbsp; &nbsp; &nbsp; &nbsp; Medical Scientist Training Program Bootcamp, UCSD - **Instructor**<br/>
 2019 &nbsp; &nbsp; &nbsp; &nbsp; CLRE 255 – Data Management & Informatics, UCSD - **Teaching Assistant**<br/>
-2015 &nbsp; &nbsp; &nbsp; &nbsp; BICD 100 – Genetics, UCSD - **Instructional Apprentice**
-
-## Mentees
-* 2020-2022 &nbsp; &nbsp; &nbsp; &nbsp; Ximena Gonzalez, UC San Diego undergraduate major in Biology
-    * Awarded TRELS scholarship (Summer 2021)
-* 2021 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Michelle Li, Menlo School high school student
+2018 – 2019 &nbsp; &nbsp; &nbsp; &nbsp; Internal Director, UCSD Graduate Bioinformatics Council<br/>
+2015 &nbsp; &nbsp; &nbsp; &nbsp; BICD 100 – Genetics, UCSD - **Instructional Apprentice**<br/>
 
 ## Peer-review Activities
 **Journals for which I have reviewed manuscripts:**<br/>
-Biomolecules, Cell, Frontiers in Genetics, Genes, IEEE/ACM Transactions on Computational Biology and Bioinformatics, International Journal of Bioinformatics and Intelligent Computing, International Journal of Molecular Sciences, ISMB, Journal of Bioinformatics and Computational Biology, Journal of Chemical Informatics and Modeling, Journal of International Medical Research, MedComm – Future Medicine, Nature, Nature Communications, Nucleic Acids Research Genomics and Bioinformatics, PeerJ, PNAS, Vaccines, Viruses
+Bioinformatics Advances, Biomolecules, Cell, Frontiers in Genetics, Genes, IEEE/ACM Transactions on Computational Biology and Bioinformatics, International Journal of Bioinformatics and Intelligent Computing, Journal of Bioinformatics and Computational Biology, Journal of Chemical Informatics and Modeling, Journal of International Medical Research, MedComm – Future Medicine, Nature, Nature Cell Biology, Nature Communications, Nucleic Acids Research Genomics and Bioinformatics, PeerJ, PNAS, Vaccines, Viruses
