@@ -35,6 +35,7 @@ redirect_from:
 
 ## Honors
 
+2026&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; BroadIgnite Award, Broad Institute of MIT and Harvard <br/>
 2026&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Eliana Hechter Memorial Travel Prize, Broad Institute of MIT and Harvard <br/>
 2024&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Asia-Pacific Leaders Under 30, Asia-Pacific Entrepreneurs Association <br/>
 2023&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Fifty Years Fifty 50 <br/>
@@ -52,6 +53,7 @@ redirect_from:
 2014-2017&nbsp; &nbsp; &nbsp;Provost Honor, UC San Diego
 
 ## Poster presentations
+2026 &nbsp; &nbsp; &nbsp; &nbsp; CSHL AI in Biology Conferences<br/>
 2023 &nbsp; &nbsp; &nbsp; &nbsp; NCI F99/K00 Awardees Annual Meeting<br/>
 2022 &nbsp; &nbsp; &nbsp; &nbsp; NCI Junior Investigator Meeting<br/>
 2022 &nbsp; &nbsp; &nbsp; &nbsp; ISMB<br/>
@@ -65,15 +67,18 @@ redirect_from:
 2020 &nbsp; &nbsp; &nbsp; &nbsp; Cell Bio Virtual 2020
 
 ## Mentees
+* 2026/06 – &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Uri Darom, MIT undergraduate
 * 2025/06 – &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vernon Lin, MIT undergraduate
-* 2025/01 – &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jacob Cobb, MIT undergraduate
+* 2025/01 – 2026/01 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jacob Cobb, MIT undergraduate
 * 2024/09 – 2025/01 &nbsp; &nbsp; &nbsp; &nbsp; Kien Phuong, MIT undergraduate
 * 2020-2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ximena Gonzalez, UC San Diego undergraduate
     * Awarded TRELS scholarship (Summer 2021)
     * Now attending UCSF medical school
 
 ## Teaching & Outreach
-2024 &nbsp; &nbsp; &nbsp; &nbsp; Organizing Committee, CellMorph-2-Function Workgroup<br/>
+2026 - &nbsp; &nbsp; &nbsp; &nbsp; Organizing Committee, Power User Workshop<br/>
+&nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *- Monthly international online workshop featuring ongoing imaging research.*<br/>
+2024 - &nbsp; &nbsp; &nbsp; &nbsp; Organizing Committee, CellMorph-2-Function Workgroup<br/>
 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; *- Monthly Broad workgroup meeting featuring ongoing functional genetics research.*<br/>
 2023 &nbsp; &nbsp; &nbsp; &nbsp; Committee Member, NCI F99/K00 Awardees Annual Meeting<br/>
 2019 &nbsp; &nbsp; &nbsp; &nbsp; Medical Scientist Training Program Bootcamp, UCSD - **Instructor**<br/>
