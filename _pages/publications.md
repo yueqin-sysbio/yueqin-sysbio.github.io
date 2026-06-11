@@ -17,6 +17,9 @@ author_profile: true
     * [In press](https://health.ucsd.edu/news/releases/Pages/2021-11-24-we-might-not-know-half-of-whats-in-our-cells-new-ai-technique-reveals.aspx)
 
 ## All Publications
+* Schaffer, L. V. *, Hu, M.*, …, **Qin, Y.**, …, Huttlin, E. L. †, Lundberg, E.† & Ideker, T. † (2025). Multimodal cell maps as a foundation for structural and functional genomics. *Nature*.
+* Lenkiewicz, J.*, Churas, C.*, …, **Qin, Y.**, …, Ideker, T. †, Schaffer, L. V. † (2025). Cell Mapping Toolkit: An end-to-end pipeline for mapping subcellular organization. *Bioinformatics*.
+* Najia, M. A.*, Jha, D. K.*, …, **Qin, Y.**, …, Blainey, P. C., Daley, G. Q.† (2025). Heterochromatin fidelity is a therapeutic vulnerability in lymphoma and other human cancers. *bioRxiv*.
 * Gentili, M.\*, Carlson, R. J.\*, Liu, B.\*, Hellier, Q., Andrews, J., **Qin, Y.**, Blainey, P. C.†, Hacohen, N.† (2024). Classification and functional characterization of regulators of intracellular STING trafficking identified by genome-wide optical pooled screening. *bioRxiv*.
 * Walton, R. T., **Qin, Y.**, Blainey, P. C. (2024). CROPseq-multi: a versatile solution for multiplexed perturbation and decoding in pooled CRISPR screens. *bioRxiv*.
 * Kratz, A.\*, Kim, M.\*, Kelly, M., …, **Qin, Y.**, …, Sobol, R. W. †, Krogan N. † & Ideker, T. † (2023). A multi-scale map of protein assemblies in the DNA damage response. *Cell Systems*.
