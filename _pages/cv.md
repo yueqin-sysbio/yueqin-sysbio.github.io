@@ -69,9 +69,9 @@ redirect_from:
 ## Mentees
 * 2026/06 – &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Uri Darom, MIT undergraduate
 * 2025/06 – &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Vernon Lin, MIT undergraduate
-* 2025/01 – 2026/01 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Jacob Cobb, MIT undergraduate
-* 2024/09 – 2025/01 &nbsp; &nbsp; &nbsp; &nbsp; Kien Phuong, MIT undergraduate
-* 2020-2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ximena Gonzalez, UC San Diego undergraduate
+* 2025/01 – 2026/01 &nbsp; &nbsp; &nbsp; &nbsp;Jacob Cobb, MIT undergraduate
+* 2024/09 – 2025/01 &nbsp; &nbsp; &nbsp; &nbsp;Kien Phuong, MIT undergraduate
+* 2020-2022 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; Ximena Gonzalez, UC San Diego undergraduate
     * Awarded TRELS scholarship (Summer 2021)
     * Now attending UCSF medical school
 
