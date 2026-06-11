@@ -7,11 +7,11 @@ redirect_from:
   - /resume
 ---
 ## 2026
-**[Invited]** Rising Stars in Genetics and Genomics Symposium, University of Utah
+**[Invited]** Rising Stars in Genetics and Genomics Symposium, University of Utah <br/>
 **[Invited]** SLAS2026 International Conference & Exhibition
 
 ## 2025
-**[Invited]** 12th conference of Society of Biomolecular Imaging and Informatics
+**[Invited]** 12th conference of Society of Biomolecular Imaging and Informatics <br/>
 Cell Circuits and Epigenomics Seminar, Broad Institute of MIT and Harvard
 
 ## 2024
