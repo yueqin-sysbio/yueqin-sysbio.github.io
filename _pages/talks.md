@@ -6,6 +6,16 @@ author_profile: true
 redirect_from:
   - /resume
 ---
+## 2026
+**[Invited]** Rising Stars in Genetics and Genomics Symposium, University of Utah
+**[Invited]** SLAS2026 International Conference & Exhibition
+
+## 2025
+**[Invited]** 12th conference of Society of Biomolecular Imaging and Informatics
+Cell Circuits and Epigenomics Seminar, Broad Institute of MIT and Harvard
+
+## 2024
+Cell Circuits and Epigenomics Seminar, Broad Institute of MIT and Harvard
 
 ## 2023
 Cell Biology @ Scale 2023 
