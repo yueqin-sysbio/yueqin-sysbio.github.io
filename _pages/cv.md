@@ -20,7 +20,7 @@ redirect_from:
     * Developing novel machine learning models and experimental techniques for systematically understanding rewiring of biological programs upon genetic perturbations.
 * 2018/06-2023/01 &nbsp; &nbsp; &nbsp; &nbsp; &nbsp; **Ph.D. Student – Dr. Trey Ideker**
     * Building a visible machine learning system to discover targeted treatment solutions in cancer.
-    * Developed novel machine learning approach to infer cell structure across several orders of physical scale from fusing confocal microscopy images and protein biophysical association data.
+    * Developed machine learning approach to infer cell structure across several orders of physical scale from fusing confocal microscopy images and protein biophysical association data.
     * Developed method for boosting signals in the genome-wide association study data using protein interaction network.
 * 2018/03-2018/06 &nbsp; &nbsp; &nbsp; &nbsp; **Rotation Student – Dr. Pablo Tamayo**
     * Constructed and evaluated the signature gene sets for immunotherapy.
